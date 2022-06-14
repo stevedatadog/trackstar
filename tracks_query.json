@@ -1,0 +1,12 @@
+{
+  "query": "query {
+    tracks(organizationSlug: \"datadog\") {
+      id
+      slug
+      embed_token
+      title
+      play_count
+      last_update
+    }
+  }"
+}

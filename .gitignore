@@ -1,4 +1,5 @@
 *.csv
 *.json
+!tracks_query.json
 *.txt
 venv
